@@ -1,0 +1,55 @@
+:root{
+    /* --third-color: #202020; */
+    --primary-color:#C17E1F;
+    --secondary-color:#252525;
+    --Forth-color:#fff;
+    background-color: #202020;
+}
+.navbar{
+    background-color: #171717;
+    box-shadow: 2px 1px 10px #242424;
+}
+.fa-sun , .fa-bars{
+    color: #fff;
+}
+.header-info h2{
+    color: #fff;
+}
+.header-info p{
+    color: #9F9F9F;
+}
+button.watch a.link::before{
+    background-color: #202020;
+}
+button.watch a{
+    color: #fff;
+}
+.chef-item {
+    box-shadow: 1px 2px #202020  ;
+
+}
+.chef-item .chef-img::before{
+    background-image: url('../imgs/team-shape-dark.svg');
+}
+.chef-item .chef-info{
+    background-color: #161616;
+}
+.chef-item .chef-info h3{
+    color: #fff;
+}
+.contact .contact-info .contact-info-card p{
+    color: #fff;
+}
+.contact-form {
+    box-shadow: 2px 2px 1px #161616;
+    background-color: #171717;
+}
+.contact .contact-info .contact-info-card{
+    background-color: #0D0D0D;   
+}
+button , button.book a{
+    color: #161616 !important;
+}
+.contact-info-card .contact-icon {
+    color: #161616;
+}
